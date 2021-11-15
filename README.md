@@ -23,4 +23,3 @@ EEG_Recognition
 ┣  Feature_plot.py: 特徴抽出層の2次元プロット
 ┣  main.py: 学習及び検証ファイルの実行ファイル
 ┗  run_plot.py: 特徴抽出層の2次元プロットの実行ファイル
-
